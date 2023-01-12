@@ -72,7 +72,8 @@ function App() {
         </div>
       </div>
       <div className="footer">
-        Developed by <a href="https://christianunnerstall.com/" target="_blank">Christian Unnerstall</a>. <a href="https://Git repository!
+        Developed by <a href="https://christianunnerstall.com/" target="_blank">Christian Unnerstall</a>.<br/>
+        <a href="https://github.com/" target="_blank">GitHub repository</a>.
       </div>
     </div>
   );
